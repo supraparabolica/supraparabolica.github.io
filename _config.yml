@@ -1,0 +1,9 @@
+name: "Supraparabolica | The business of AI"
+title: "Supraparabolica"
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
+url: http://www.supraparabolica.com
+permalink: /posts/:title/
+github_username: supraparabolica
